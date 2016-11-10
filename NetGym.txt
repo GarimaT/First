@@ -1,0 +1,11 @@
+Issues Noted:
+
+1) If the FM and User(instructor) are from different time zones, there's a change in time of the class.
+
+2) On adding Sub for 2 classes on different days and time,only 1 class sub is displayed on the sub request details page.
+
+3) FM from pacific time zone and all the requested users(FM,Instructors) from Mountain time zone,a difference of 1 hr is there in the notification sms and email.
+
+4) The time issue is only there when the user and sub request sender are from different time zones.
+
+5) The FM(request sender)is from mountain time zone and the user(instructor) is from alaska time zone, there's a difference of 2 hours in the notification mail. 
